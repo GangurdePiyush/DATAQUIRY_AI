@@ -1,0 +1,15 @@
+# Simple Dataset Upload & Query System - Requirements
+# -------------------------------------------------------------
+# Part 2: Tabular Dataset Parsing
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.0
+
+# Part 4: Local Ollama AI Integration
+requests>=2.28.0
+
+# Part 6: Voice Interaction (Speech-to-Text & Text-to-Speech)
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+# PyAudio (Optional: Required for live microphone recording on Windows)
+# Install via: pip install pyaudio

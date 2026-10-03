@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,Age,City
+101,Alice Smith,Engineering,85000,29,New York
+102,Bob Jones,Marketing,62000,34,Chicago
+103,Charlie Brown,Sales,71000,41,Los Angeles
+104,Diana Prince,Engineering,92000,31,San Francisco
+105,Evan Wright,Finance,78000,38,New York
+106,Fiona Gallagher,HR,55000,26,Chicago
+107,George Clark,Sales,68000,45,Houston
+108,Hannah Abbott,Engineering,89000,28,Seattle
+109,Ian Malcolm,Finance,81000,42,Boston
+110,Julia Roberts,Marketing,65000,33,Miami

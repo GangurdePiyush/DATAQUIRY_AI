@@ -1,0 +1,3 @@
+Header1,Header2,Header3
+row1,col2,"unclosed quote line
+row2,col2,col3,extra_col1,extra_col2
